@@ -1,0 +1,30 @@
+body,html{
+			padding:0;margin:0;
+		}
+		img{
+			border:0;
+		}
+		ul,li{
+			list-style: none;
+		}
+		#imgs{
+			width:60px;height:60px;position:absolute;z-index: 22;top:30px;left:100px;
+		}
+		#btn{
+			
+			width:60px;height:40px;position:absolute;top:30px;left:100px;
+		}
+		.alert{
+			width:300px;height:140px;line-height:140px;background:#ccc;
+			margin:100px auto 0px;color:#000;font-size:14px;display:none;text-align: center;
+		}
+		.alert span{
+			display:block;float:left;
+			cursor:pointer;
+		}
+		.box{
+			width:150px;margin:30px auto;
+		}
+		.quxiao{
+			margin-left:50px;
+		}
